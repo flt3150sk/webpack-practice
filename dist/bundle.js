@@ -1,0 +1,1 @@
+(()=>{"use strict";document.getElementById("app").appendChild((()=>{const e=document.createElement("div");return e.innerHTML="<p>Hello webpack!</p>",e})())})();
