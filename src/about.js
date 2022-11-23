@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import "./assets/index.scss";
-import App from "./pages/index.jsx";
+import App from "./pages/about.jsx";
 
+console.log("App", App);
 ReactDOM.render(<App />, document.getElementById("#app"));
